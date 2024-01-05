@@ -1,1 +1,1 @@
-`hostedLink: https://web-d-hackathon-zrih.vercel.app/`
+https://web-d-hackathon-zrih.vercel.app/
